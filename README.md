@@ -158,11 +158,8 @@ Please include concise descriptions of added modules, required hardware, and wir
 
 ## License
 
-This project currently has **no license file**. If you want it to be open‑source, add a `LICENSE` file — **MIT** is a common choice for hobby projects.
+This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
 
-Suggested short license blurb for README:
-
-> Licensed under the MIT License. See `LICENSE` for details.
 
 ---
 
